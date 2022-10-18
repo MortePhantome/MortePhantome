@@ -4,7 +4,6 @@
 
 * 👨‍💻  Currently mostly into webapps.
 * 🌍  Based in US of A 
-* 🧑‍🏫  "Best way to learn is to build shit" - [TheoBr](https://www.github.com/theobr)
 
 ### Tech I'm passionate about
 <div style="display: flex;">
